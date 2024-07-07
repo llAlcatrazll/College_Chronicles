@@ -1,0 +1,17 @@
+.custom_polygon {
+  clip-path: polygon(0 100%, 100% 74%, 100% 0, 0 0);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 -287px;
+}
+.custom_polygon_reverse {
+  clip-path: polygon(0 25%, 100% 0%, 100% 100%, 0% 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 -110px;
+}
+.shortfilm {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 -600px;
+}

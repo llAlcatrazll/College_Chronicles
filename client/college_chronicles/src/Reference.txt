@@ -1,0 +1,138 @@
+Font Style:
+    Apple System
+    Cormorant Garamon - Titles
+    
+
+
+
+.text-primary
+
+.text-secondary
+
+.text-success
+
+.text-danger
+
+.text-warning
+
+.text-info
+
+.text-light
+
+.text-dark
+
+.text-muted
+
+.text-white
+
+CENTER THINGS ALL AROUND :
+    justify-content-center
+    align-items-center
+    d-flex
+    flex-grow-1
+
+TAILWIND WIDTH HEIGHT
+
+    24  
+     32  
+     40   
+     48  
+     64   
+     80  
+     96
+
+pt	padding-top:
+pr	padding-right:
+pb	padding-bottom:
+pl	padding-left:
+
+     NEW WEBSITE TEMPLATE
+        https://www.troa.fr/
+        https://florentbiffi.com/
+
+        https://blog.hubspot.com/website/blue-website
+
+GOOD HEADER FONTS
+
+    - Lilita One
+    - Rowdies
+    - Luckiest Guy
+    - Carter One
+
+Biscay - Darkest Blue
+#16305B
+
+Lilac - Pink Purle
+#C096BB
+
+Mariner - Average Blue
+#1F78BB
+
+Shakespeare - Sky Blue
+#47A8D1
+
+
+
+
+
+
+
+
+
+
+ <div
+        className="bg-danger p-1 text-white position-relative"
+        style={{ width: "84%" }}
+      >
+        {/* INVITATION BOX */}
+        <div className=" d-flex justify-content-center align-items-end">
+          <div
+            className="position-absolute  mb-3 w-50 h-25 px-4 rounded"
+            style={{ backgroundColor: "rgba(0, 0, 0, 0.6)" }}
+          >
+            <div className="  d-flex flex-col justify-content-center">
+              <div
+                style={{
+                  fontFamily: "Luckiest Guy",
+                  color: "#47A8D1",
+                  fontSize: "5.4rem",
+                }}
+              >
+                COME AND JOIN US!
+              </div>
+              <div className="text-2xl mx-4 font-bold">
+                Come and enroll in the College of Computing and Information
+                Sciences Departments to have an experience unlike any other
+              </div>
+              <div className=" d-flex justify-content-center">
+                {" "}
+                {/* CALL TO ACTION BUTTON */}
+                <button
+                  className=" w-25 text-white rounded-full font-bold mt-2 border-1 border-cyan-400"
+                  style={{ backgroundColor: "black", height: "40px" }}
+                >
+                  Take a Look
+                </button>
+              </div>
+            </div>
+          </div>
+          <img src={Hero_Image} />
+        </div>
+        {/* END OF INVITATION BOX */}
+      </div>
+      <div className="h-100">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem doloribus
+        soluta voluptate a facilis dolore cupiditate aliquid? Eos amet excepturi
+        voluptas magnam atque quibusdam sed enim odio voluptatibus, vitae
+        assumenda itaque sit totam quae cumque nesciunt nam laboriosam, facere
+        neque rerum nemo voluptatum veritatis obcaecati! Repellat beatae
+        pariatur porro praesentium, ad inventore vitae! Nesciunt numquam
+        quibusdam harum commodi optio, molestiae excepturi itaque. Odit officiis
+        sunt sed cum nihil aspernatur eum voluptatum voluptate autem totam
+        delectus, tempora ratione omnis rerum fugiat quis fugit. Sapiente
+        expedita eius quas optio iure facilis perferendis praesentium, dolorem
+        aut animi iste placeat nihil molestias minus reiciendis voluptas eum
+        tempora sit fugit ducimus, vel aliquam? Ullam blanditiis molestias
+        maxime, sequi facilis sed eligendi aliquam dicta culpa iste eum rem
+        distinctio!
+      </div>
