@@ -71,6 +71,12 @@ Mariner - Average Blue
 Shakespeare - Sky Blue
 #47A8D1
 
+Darker black
+#2A2A2A
+
+Lighter black
+#3C3C3C
+
 
 
 

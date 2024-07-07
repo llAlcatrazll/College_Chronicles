@@ -7,7 +7,7 @@ import "../special_css/mainbg.css";
 function LandingPage() {
   return (
     <>
-      <div className="h-auto background_main d-flex justify-content-center flex-col flex-grow-1  ">
+      <div className="h-auto background_svg d-flex justify-content-center flex-col flex-grow-1  ">
         {/* <Footer className="z-3" /> */}
         {/* <div className="d-flex justify-between h-100vh w-100 flex-grow-1  position-absolute position-fixed"> */}
         {/* <img src={Pattern_Background} /> */}
