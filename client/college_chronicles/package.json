@@ -13,6 +13,7 @@
     "@fontsource/cormorant-garamond": "^5.0.13",
     "@fontsource/luckiest-guy": "^5.0.19",
     "@popperjs/core": "^2.11.8",
+    "@tabler/icons-react": "^3.9.0",
     "bootstrap": "^5.3.3",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",

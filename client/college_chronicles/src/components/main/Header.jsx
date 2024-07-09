@@ -1,5 +1,6 @@
 import HeaderAds from "../micro_objects/HeaderAds.jsx";
 import College_Logo from "../../assets/logos/CCIS_Logo.png";
+import { IconSearch } from "@tabler/icons-react";
 function Header() {
   return (
     <div>
@@ -28,6 +29,9 @@ function Header() {
               <div>WHY CCIS?</div>
             </div>
           </div>
+        </div>
+        <div className="d-flex align-items-center ">
+          <IconSearch />
         </div>
       </div>
     </div>
